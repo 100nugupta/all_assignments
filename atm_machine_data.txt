@@ -1,0 +1,4 @@
+Account_number,5050
+ATM_pin,5548
+Account_type,s
+Balance,20000
